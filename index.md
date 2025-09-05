@@ -1,6 +1,15 @@
+# Charles Birkelund's First CS193 Homework
+- I like the TAs
+- I like my friends in the class
+- I like that I can learn tools for my major
+
+
+
+
+
 ## Welcome to GitHub Pages
 
-# Testing
+## Testing
 - Element 1
 - Element 2
 1. El 1
