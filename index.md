@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+# Testing
+- Element 1
+- Element 2
+1. El 1
+2. El 2
+**Bold**
+_Italic_
+'Code'
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
